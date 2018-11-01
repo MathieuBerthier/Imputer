@@ -1,0 +1,1 @@
+Fonction permettant de remplacer les valeurs "None" par la moyenne ou la médiane d'une liste
