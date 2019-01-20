@@ -1,6 +1,6 @@
-Fonction permettant de remplacer les valeurs "None" par la moyenne ou la médiane d'une liste
+# Fonction d'imputation
 
-#Fonction d'imputation de données manquantes
+Fonction permettant de remplacer les valeurs "None" par la moyenne ou la médiane d'une liste
 
 ## Introduction
 
